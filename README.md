@@ -8,4 +8,7 @@
 `yarn install`
 
 **Run dev:**  
-`yarn start`
+`yarn start`  
+
+
+Server will run on **localhost** port **3000**  
