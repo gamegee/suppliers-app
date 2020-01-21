@@ -1,11 +1,11 @@
 # Get started
 
-Clone
+Clone:  
 `git clone https://github.com/gamegee/suppliers-app.git`
 `cd suppliers-app`
 
-Install
+Install:  
 `yarn install`
 
-Run dev
+Run dev:  
 `yarn start`
